@@ -15,7 +15,7 @@ Building a Convolutional Neural Network (CNN) model with and without Discrete Wa
 - [Model Architecture](#model-architecture)  
 - [Training & Evaluation](#training--evaluation)  
 - [Results & Key Findings](#results--key-findings)  
-- [Insights](#insights)    
+- [Insights](#insights)  
 - [Final Recommendations](#final-recommendations)  
 
 
@@ -161,7 +161,7 @@ CNN Model built using **Keras Sequential API** with variations in convolution fi
 - MCC: 0.9082
 
 
-## 🔑 Insights
+## Insights
 
 - CNN models with DWT preprocessing generally achieved higher accuracy & MCC, showing DWT helps in extracting key frequency features.
 
